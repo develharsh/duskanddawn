@@ -1,6 +1,6 @@
 module.exports = {
     env: {
-        "BASE_URL": "http://localhost:3000",
+        "BASE_URL": "https://duskanddawn.vercel.app/",
         "MONGODB_URL": "mongodb+srv://hvs:thakur@cluster0.m8zgs.mongodb.net/duskanddawn?retryWrites=true&w=majority",
         "ACCESS_TOKEN_SECRET": "HarshApp",
         "REFRESH_TOKEN_SECRET": "Harshrefresh",
